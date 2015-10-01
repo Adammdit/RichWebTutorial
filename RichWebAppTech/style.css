@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+
+#div1 {position: relative;
+    left: -1350px;
+    top: -120px;}
+
+#div2 {position: relative;
+    right: 190px;
+    top: -140px;}
+
+#div3 {position: relative;
+    right: 10px;
+    top: -160px;}
+
+#list1 {position: relative;
+    left: -10px;
+    top: -110px;}
+
+#div4 {position: relative;
+    left: 180px;
+    top: -850px;}
+
+#login {position: relative;
+    right: 10px;
+    top: -130px;}
+
+#sec1, #sec2, #sec3, #sec4, #sec5, #sec6, #sec7, #sec8, #sec9, #footer {position: relative;
+    left: 180px;
+    top: -880px;}
+
